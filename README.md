@@ -2,6 +2,6 @@
 
 add 
 
- #<activity android:name=".errorPermCheck.ErrorRecoveryActvity"/>
+'<activity android:name=".errorPermCheck.ErrorRecoveryActvity"/>'
  
  in manifest
