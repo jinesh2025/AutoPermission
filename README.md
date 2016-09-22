@@ -1,7 +1,7 @@
 # AutoPermission
 
-add 
+ add 
 
-> <activity android:name=".errorPermCheck.ErrorRecoveryActvity"/>
+ android:name=".errorPermCheck.ErrorRecoveryActvity"
  
  in manifest
